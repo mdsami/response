@@ -1,4 +1,13 @@
 [
+
+
+    {
+        "namaz": "Fazar",
+        "time": "4.20 am",
+        "next": "ZOHAR - 2:11 pm"
+       
+    },
+
     {
     "title": "Quran",
     "description": "And when it is said unto them: Make not mischief in the earth, they say: We are peacemakers only",
@@ -8,18 +17,13 @@
     "title": "Hadith",
     "description": "Fear Allah wherever you are. Do good immediately after a sinful act to erase it, and always be well-mannered in your relationship with people.",
     "where": "Tirmidhi -55"
-    },
-
-
-
-
-
-    {
-        "namaz": "Fazar",
-        "time": "4.20 am",
-        "next": "ZOHAR - 2:11 pm"
-       
     }
+
+
+
+
+
+
     
     
     
